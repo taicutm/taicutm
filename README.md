@@ -11,7 +11,7 @@ Here are some ideas to get you started:
   <tr>
   <td width="50%">
       
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/user/omnitenebris)
+&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/artist/73JDHHjsNGy85o3EbEqOLk)
 
   </td>
   <td width="50%">
