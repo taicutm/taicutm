@@ -7,14 +7,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: funny
 -->
 ### Spotify Playing 🎧
-<table width="100%"> 
-  <tr>
-  <td width="50%">
-      
-&nbsp; <br> [![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/artist/73JDHHjsNGy85o3EbEqOLk)
 
-  </td>
-  <td width="50%">
+      
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/artist/73JDHHjsNGy85o3EbEqOLk)
+
+ 
 
 
 
