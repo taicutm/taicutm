@@ -6,3 +6,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: 😍
 - ⚡ Fun fact: funny
 -->
+### Spotify Playing 🎧
+![Tai Spotify](https://spotify-recently-played-readme.vercel.app/api?user=31c2jhvwk2t4j62oreiwig2khwju)
