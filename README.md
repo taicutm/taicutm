@@ -9,7 +9,7 @@ Here are some ideas to get you started:
 ### Spotify Playing 🎧
 
       
-[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/artist/73JDHHjsNGy85o3EbEqOLk)
+[![Spotify](https://novatorem.vercel.app/api/spotify)](https://open.spotify.com/playlist/37i9dQZF1DX4WYpdgoIcn6)
 
  
 
